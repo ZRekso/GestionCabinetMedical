@@ -24,7 +24,7 @@ GestionCabinetMedical est une application de bureau développée en Java avec Ja
 * ![Scene Builder](https://img.shields.io/badge/Scene%20Builder-000000?logo=java&logoColor=orange)
 
 ---
-### 🖼️ Aperçu de l'application
+### Aperçu de l'application
 
 | Menu | Patients | Médecins |
 |:---:|:---:|:---:|
